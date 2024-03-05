@@ -1,4 +1,4 @@
-# my-first-project
-This is my first Git Repository
-<Br>
-Author - Balram Nishad
+# Image based classification model for components of waste.
+
+## Methods to anotate the images
+1. Labelimg tool - labelimg
